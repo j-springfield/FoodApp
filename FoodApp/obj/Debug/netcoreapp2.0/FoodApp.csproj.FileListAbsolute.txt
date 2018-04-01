@@ -1,0 +1,11 @@
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\bin\Debug\netcoreapp2.0\FoodApp.deps.json
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\bin\Debug\netcoreapp2.0\FoodApp.runtimeconfig.json
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\bin\Debug\netcoreapp2.0\FoodApp.runtimeconfig.dev.json
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\bin\Debug\netcoreapp2.0\FoodApp.dll
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\bin\Debug\netcoreapp2.0\FoodApp.pdb
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.csprojResolveAssemblyReference.cache
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.csproj.CoreCompileInputs.cache
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.AssemblyInfoInputs.cache
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.AssemblyInfo.cs
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.dll
+C:\Users\Gooby\source\repos\FoodApp\FoodApp\obj\Debug\netcoreapp2.0\FoodApp.pdb
