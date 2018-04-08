@@ -1,0 +1,10 @@
+/Users/h230766/Documents/CodeBases/FoodApp/FoodApp/bin/Release/netcoreapp2.0/FoodApp.deps.json
+/Users/h230766/Documents/CodeBases/FoodApp/FoodApp/bin/Release/netcoreapp2.0/FoodApp.runtimeconfig.json
+/Users/h230766/Documents/CodeBases/FoodApp/FoodApp/bin/Release/netcoreapp2.0/FoodApp.runtimeconfig.dev.json
+/Users/h230766/Documents/CodeBases/FoodApp/FoodApp/bin/Release/netcoreapp2.0/FoodApp.dll
+/Users/h230766/Documents/CodeBases/FoodApp/FoodApp/bin/Release/netcoreapp2.0/FoodApp.pdb
+/Users/h230766/Documents/CodeBases/FoodApp/FoodApp/obj/Release/netcoreapp2.0/FoodApp.csproj.CoreCompileInputs.cache
+/Users/h230766/Documents/CodeBases/FoodApp/FoodApp/obj/Release/netcoreapp2.0/FoodApp.AssemblyInfoInputs.cache
+/Users/h230766/Documents/CodeBases/FoodApp/FoodApp/obj/Release/netcoreapp2.0/FoodApp.AssemblyInfo.cs
+/Users/h230766/Documents/CodeBases/FoodApp/FoodApp/obj/Release/netcoreapp2.0/FoodApp.dll
+/Users/h230766/Documents/CodeBases/FoodApp/FoodApp/obj/Release/netcoreapp2.0/FoodApp.pdb
