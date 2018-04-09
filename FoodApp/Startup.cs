@@ -31,6 +31,8 @@ namespace FoodApp
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseFileServer();
+
             /*
             app.Use(next =>
             {
