@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 
-namespace FoodApp
+namespace FoodApp.Services
 {
     public interface IGreeter
     {

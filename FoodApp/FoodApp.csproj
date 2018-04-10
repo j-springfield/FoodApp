@@ -6,10 +6,18 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Services\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Controllers\Models\EmptyClass.cs" />
+  </ItemGroup>
 </Project>
